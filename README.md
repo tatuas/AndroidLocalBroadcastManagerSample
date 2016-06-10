@@ -1,5 +1,4 @@
 # AndroidLocalBroadcastManagerSample
-Android LocalBroadcastManager Sample
 
 LocalBroadcastReceiverって特定条件では意外と使えるということを確認するサンプル。
 Activityから、5秒のTimerをIntentServiceで開始し、5秒後にLocalBroadcastReceiverでIntentServiceの結果を受け取る。
