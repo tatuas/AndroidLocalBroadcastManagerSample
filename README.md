@@ -1,2 +1,2 @@
-# LocalBroadcastManagerSample
-Android LocalbroadcastManager sample
+# AndroidLocalBroadcastManagerSample
+Android LocalBroadcastManager Sample
